@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal">
-  Super Mario Bros. LEvel Details :mushroom: :blossom: :star:
+  Super Mario Bros. Level Details :mushroom: :blossom: :star:
 </h1>
 
 
